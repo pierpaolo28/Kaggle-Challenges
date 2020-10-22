@@ -6,7 +6,7 @@
 # Kaggle-Challenges
 Selection of some interesting Kaggle Kernels
 
-
+[Kaggle Profile](https://www.kaggle.com/pierpaolo28)
 
 [contributors-shield]: https://img.shields.io/github/contributors/pierpaolo28/Kaggle-Challenges.svg?style=flat-square
 [contributors-url]: https://github.com/pierpaolo28/Kaggle-Challenges/graphs/contributors
